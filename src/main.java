@@ -25,6 +25,7 @@ public class main {
 
             // 한줄에 두개 이상의 변수를 만들 수 있다.
             int month = 6, day = 20;
+            int notGit = 10;
             System.out.println(month);
             System.out.println(day);
         }
