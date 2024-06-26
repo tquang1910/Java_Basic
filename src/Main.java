@@ -1,4 +1,4 @@
-public class main {
+public class Main {
         public static void main(String[] args) {
             // 변수를 선언하고
             int a = 2;
